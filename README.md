@@ -27,6 +27,6 @@ __Checkout, _Tela de produto_, Catálogo, Home com banner__
 3. JavaScript
 4. PHP
 5. MySQL
-    1.lista aninhada
-    2.sub lista ou sub tarefa
-    3.Usa quatro espaços
+    1. lista aninhada
+    2. sub lista ou sub tarefa
+    3. Usa quatro espaços
