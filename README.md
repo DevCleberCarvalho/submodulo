@@ -49,5 +49,5 @@ __Checkout, _Tela de produto_, Catálogo, Home com banner__
 
 ![Teste imagem](https://www.pexels.com/pt-br/foto/quebrado-com-defeito-cafe-cozinhando-6272/)
 
-[Teste link Google](https://www.google.com)
+[Google](https://www.google.com)
  
