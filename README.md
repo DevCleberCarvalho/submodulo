@@ -56,4 +56,11 @@ __Checkout, _Tela de produto_, Catálogo, Home com banner__
 [https://www.google.com](https://www.google.com)
 
 Perfil: https://www.github.com/DevCleberCarvalho
+
+### Listas de tarefas a fazer
+
+- [x] Estudo de Git
+- [ ] Estudo de Linux
+- [x] Estudo de GitHub
+- [ ] Estudo de React
  
