@@ -45,7 +45,7 @@ __Checkout, _Tela de produto_, Catálogo, Home com banner__
 
 ![Logo Jovem](img/foto-jovem-f.jpg)
 
-![Logo Softwell](exemplos/Softwell.png)
+![Logo Softwell](img/Softwell.png)
 
 ![Teste imagem](https://www.pexels.com/pt-br/foto/quebrado-com-defeito-cafe-cozinhando-6272/)
 
