@@ -1,10 +1,10 @@
 # Aprendendo Markdown
 
-Vamos criar um contexto, para ver os resultados
+Vamos criar um **contexto**, para ver os __resultados__
 
 ## Funcionalidades:
 
-Checkout, Tela de produto, Catálogo, Home com banner
+*Checkout*, _Tela de produto_, Catálogo, Home com banner
 
 ###### Melhorias do projeto
 
