@@ -20,7 +20,12 @@ __Checkout, _Tela de produto_, Catálogo, Home com banner__
 * MySQL
     * Sub lista aninhada
     * Sub lista não ordenada
-    * Sempre dar espaço depois da marcação da tag
+    * Sempre dar espaço depois da marcação da tag- 
+
+- Testando (-) 
+- Outra maneira (-)
+- Outra opção (-)
+
 
 ### Lista de Posições
 (Lista ordenada - ol)
@@ -42,6 +47,6 @@ __Checkout, _Tela de produto_, Catálogo, Home com banner__
 
 ![Logo Softwell](img/Softwell.png)
 
-![Teste imagem](https://www.pexels.com/pt-br/foto/quebrado-com-defeito-cafe-cozinhando-6272/)
+[Teste imagem](https://www.pexels.com/pt-br/foto/quebrado-com-defeito-cafe-cozinhando-6272/)
 
  
