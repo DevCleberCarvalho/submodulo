@@ -47,6 +47,7 @@ __Checkout, _Tela de produto_, Catálogo, Home com banner__
 
 ![Logo Softwell](img/Softwell.png)
 
-[Teste imagem](https://www.pexels.com/pt-br/foto/quebrado-com-defeito-cafe-cozinhando-6272/)
+![Teste imagem](https://www.pexels.com/pt-br/foto/quebrado-com-defeito-cafe-cozinhando-6272/)
 
+![Logo Softwell](Softwell_copy.png)
  
