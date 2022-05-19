@@ -6,6 +6,6 @@ Vamos criar um contexto, para ver os resultados
 
 Checkout, Tela de produto, Catálogo, Home com banner
 
-###### Melhotias do projeto
+###### Melhorias do projeto
 
 Melhoria 1, melhoria 2
