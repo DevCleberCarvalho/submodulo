@@ -18,6 +18,9 @@ __Checkout, _Tela de produto_, Catálogo, Home com banner__
 * JavaScript
 * PHP
 * MySQL
+    * SUb lista aninhada
+    * Sub lista não ordenada
+    * Sempre dar espaço depois da marcação da tag
 
 ### Lista de Posições
 (Lista ordenada - ol)
@@ -27,6 +30,6 @@ __Checkout, _Tela de produto_, Catálogo, Home com banner__
 3. JavaScript
 4. PHP
 5. MySQL
-    1. lista aninhada
-    2. sub lista ou sub tarefa
+    1. Lista aninhada
+    2. Sub lista ou sub tarefa
     3. Usa quatro espaços
