@@ -18,7 +18,7 @@ __Checkout, _Tela de produto_, Catálogo, Home com banner__
 * JavaScript
 * PHP
 * MySQL
-    * SUb lista aninhada
+    * Sub lista aninhada
     * Sub lista não ordenada
     * Sempre dar espaço depois da marcação da tag
 
@@ -33,3 +33,8 @@ __Checkout, _Tela de produto_, Catálogo, Home com banner__
     1. Lista aninhada
     2. Sub lista ou sub tarefa
     3. Usa quatro espaços
+
+    ### Adicionando Imagem
+
+    ![Aqui vai o ALT](Aqui vai o caminho da imagem)
+    ![Logo Jovem](img/foto-jovem-f.png)
