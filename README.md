@@ -37,4 +37,4 @@ __Checkout, _Tela de produto_, Catálogo, Home com banner__
     ### Adicionando Imagem
 
     ![Aqui vai o ALT](Aqui vai o caminho da imagem)
-    ![Logo Jovem](img/foto-jovem-f.png)
+    ![Logo Jovem](img/foto-jovem-f.jpg)
